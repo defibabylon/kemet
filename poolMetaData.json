@@ -1,8 +1,14 @@
-cat > poolMetaData.json << EOF
 {
 "name": "DeFi Babylon",
 "description": "Why stake with us? We're using our operator rewards to produce films that promote decentralization to the masses.",
 "ticker": "KEMET",
 "homepage": "https://defibabylon.com"
 }
-EOF
+
+
+
+
+
+
+
+
